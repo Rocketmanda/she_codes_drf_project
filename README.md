@@ -4,7 +4,7 @@ She Codes Crowdfunding Project - DRF Backend.
 
 
 ## About
-The purpose of this website is to provide a platform for users to crowdsource for their dogs' boujee lifestyle. Users can create a Project and/or submit a pledge to fund someone's activities for their dog, such as a Doggy Daycare session or a Pooch Pedicure.
+The purpose of this website is to provide a platform for users to crowdsource for their dogs' boujee lifestyle, titled "B!TCH, PLEASE". Users can create a Project and/or submit a pledge to fund someone's activities for their dog, such as a Doggy Daycare session or a Pooch Pedicure.
 
 ## Features
 The features of the MVP for this project include:
