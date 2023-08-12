@@ -23,7 +23,7 @@ The following features are stretch goals following MVP
 | HTTP Method | Url | Purpose | Request Body | Successful Response Code | Authentication <br /> Authorization
 | --- | ------- | ------ | ---- | -----| ----|
 | GET | projects/ | Return all projects | N/A | 200 | N/A |
-| POST | projects/ | Create a new project | project object | 201 | User must be logged in. |
+| POST | projects/ | Create a new project | project object | 201 | User must be logged in. | 
 
 ## Database Schema
 {{ Insert your database schema }}
