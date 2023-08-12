@@ -7,8 +7,9 @@ The purpose of this website is to provide a platform for users to crowdsource fo
 
 ## Features
 The features of the MVP for this project include:
-* [] Ability for a user to 
-* [] feature
+* [] Ability for a user to create a project
+* [] Ability for a user to make a pledge
+* [] Ability for a user to log in and out
 
 ### Stretch Goals
 The following features are stretch goals following MVP
